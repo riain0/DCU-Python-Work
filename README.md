@@ -1,2 +1,3 @@
 # Python-Projects
-some python programs I've written.
+
+University python programming assignments/labs.
